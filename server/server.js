@@ -12,7 +12,7 @@ const app = express();
 await connectDB();
 
 // Middlewares — webhook comes first to preserve raw body
-app.use('/webhooks', express.raw({ type: "*/*" })); // <-- raw body just for webhook
+app.use('/webhooks', express.raw({ type: "*/*" })); 
 app.post('/webhooks', clerkWebhooks);
 
 // Now JSON middleware for all other routes
