@@ -54,12 +54,17 @@ git clone https://github.com/Apoorva-Satakolla/JOB_PORTAL.git
 cd JOB_PORTAL
 ```
 
-### 2. Start the Frontend
+### 2. Install Dependencies
+```
+npm install
+```
+
+### 3. Start the Frontend
 ```
 npm run dev
 ```
 
-### 3. Start the Backend
+### 4. Start the Backend
 ```
 npm run server
 ```
