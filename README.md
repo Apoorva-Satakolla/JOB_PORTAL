@@ -45,3 +45,22 @@ A full-stack Job Portal web application that allows companies to post and manage
 - Backend: **Vercel Serverless Functions**
 
 ---
+
+💻 Usage
+
+1. Clone the Repository  
+```bash
+git clone https://github.com/Apoorva-Satakolla/JOB_PORTAL.git  
+cd JOB_PORTAL
+```
+
+2. Start the Frontend
+npm run dev
+
+3. Start the Backend
+npm run server
+
+📝 License
+Distributed under the MIT License.
+
+
