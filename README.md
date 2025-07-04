@@ -46,21 +46,25 @@ A full-stack Job Portal web application that allows companies to post and manage
 
 ---
 
-💻 Usage
+## 💻Usage
 
-1. Clone the Repository  
-```bash
+### 1. Clone the Repository  
+```
 git clone https://github.com/Apoorva-Satakolla/JOB_PORTAL.git  
 cd JOB_PORTAL
 ```
 
-2. Start the Frontend
+### 2. Start the Frontend
+```
 npm run dev
+```
 
-3. Start the Backend
+### 3. Start the Backend
+```
 npm run server
+```
 
-📝 License
+## 📝 License
 Distributed under the MIT License.
 
 
