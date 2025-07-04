@@ -50,7 +50,7 @@ A full-stack Job Portal web application that allows companies to post and manage
 
 ### 1. Clone the Repository  
 ```
-git clone https://github.com/Apoorva-Satakolla/JOB_PORTAL.git  
+git clone https://github.com/Apoorva-Satakolla/JOB_PORTAL.git
 cd JOB_PORTAL
 ```
 
@@ -63,6 +63,8 @@ npm run dev
 ```
 npm run server
 ```
+
+---
 
 ## 📝 License
 Distributed under the MIT License.
