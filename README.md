@@ -11,8 +11,8 @@ A full-stack Job Portal web application that allows companies to post and manage
 ### 👨‍💻 For Job Seekers (Users)
 - 🔍 Browse all job listings  
 - 📝 Apply to jobs with resume upload  
-- 📄 View your applications and track status
-- 📤 Update your profile and resume  
+- 📄 View applications and track status
+- 📤 Update profile and resume  
 
 ### 🏢 For Recruiters (Companies)
 - 🔐 Register and log in securely with logo upload  
